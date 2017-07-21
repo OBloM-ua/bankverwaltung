@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oleh/Prg/ClionProjects/Parkhaus/Parkhaus.cpp
+Parkhaus.h
+/Users/oleh/Prg/ClionProjects/Parkhaus/Parkhaus.h
+
+/Users/oleh/Prg/ClionProjects/Parkhaus/Parkhaus.h
+Stellplatz.h
+/Users/oleh/Prg/ClionProjects/Parkhaus/Stellplatz.h
+iostream
+-
+vector
+-
+string
+-
+stdexcept
+-
+
+/Users/oleh/Prg/ClionProjects/Parkhaus/Stellplatz.cpp
+Stellplatz.h
+/Users/oleh/Prg/ClionProjects/Parkhaus/Stellplatz.h
+
+/Users/oleh/Prg/ClionProjects/Parkhaus/Stellplatz.h
+iostream
+-
+stdexcept
+-
+
+/Users/oleh/Prg/ClionProjects/Parkhaus/main.cpp
+Parkhaus.h
+/Users/oleh/Prg/ClionProjects/Parkhaus/Parkhaus.h
+
